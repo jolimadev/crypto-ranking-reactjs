@@ -1,3 +1,7 @@
+<h1>Crypto Ranking Table (value on real time) Made it With React, TailwindCSS & frame-motion. </h1>
+
+<h3>Feel free to use it.</h3>
+
 Credits for helping me to practice and be more deep in this awesome world of cryptos, check out to see more data about it:
 
 Project Source code: https://github.com/Andrew-FungKinHo/Y... Sample Table with TailwindCSS in CodePen: https://codepen.io/superfly/pen/wvvPLZB CoinGecko API endpoint: https://api.coingecko.com/api/v3/coin... Reorder function in Framer motion: https://www.framer.com/docs/reorder/ TailwindCSS installation in react: https://tailwindcss.com/docs/guides/c... YouTube Source code: https://github.com/Andrew-FungKinHo/Y...
